@@ -1,4 +1,4 @@
-In the left On the left deck make sure to start with the lp filter knob fully cw.
+On the left deck make sure to start with the lp filter knob fully cw.
 Start with the mix knob on about 10 o clock 
 In the right deck make sure to start with the pitch knob in the middle and mix knob, and time knob fully cw.
 The pitch knob next to the middle one (the pitch shifting one not the middle) should be at 12 o clock
